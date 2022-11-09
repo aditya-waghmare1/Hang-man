@@ -1,5 +1,5 @@
 # Hang-man## Game
-<a href="https://replit.com/@aditya0666/turtalgame?v=1">**Visit Now** 🚀</a>
+<a href="https://replit.com/@aditya0666/Hangman?v=1">**Visit Now** 🚀</a>
 
 Guess The Number Game is a python program i.e, developed in python programming language using random module and some user inputs.
 
